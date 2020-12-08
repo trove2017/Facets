@@ -1,0 +1,2 @@
+C:\code_facet\src\out\artifacts\facets>java -Xmx1024m -Xms32m -jar facets.jar -m
+ 2 -x 30 -r 3 -e 10 -f B -n 3 ebvg.net
