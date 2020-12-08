@@ -1,2 +1,2 @@
 # Facets
-PPI network decomposition
+FACETS is a novel PPI network decomposition algorithm to make sense of the deluge of interaction data using Gene Ontology (GO) annotations. It finds not just a single functional decomposition of the PPI network, but a multi-faceted atlas of functional decompositions that portray alternative perspectives of the functional landscape of the underlying PPI network. Each facet in the atlas represents a distinct interpretation of how the network can be functionally decomposed and organized. Our algorithm maximizes interpretative value of the atlas by optimizing inter-facet orthogonality and intra-facet cluster modularity.
